@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/semantic-release-example/static/css/main.5f361e03.chunk.css",
-    "main.js": "/semantic-release-example/static/js/main.73b01540.chunk.js",
-    "main.js.map": "/semantic-release-example/static/js/main.73b01540.chunk.js.map",
+    "main.js": "/semantic-release-example/static/js/main.dea40939.chunk.js",
+    "main.js.map": "/semantic-release-example/static/js/main.dea40939.chunk.js.map",
     "runtime-main.js": "/semantic-release-example/static/js/runtime-main.1e57fad5.js",
     "runtime-main.js.map": "/semantic-release-example/static/js/runtime-main.1e57fad5.js.map",
     "static/js/2.b570246b.chunk.js": "/semantic-release-example/static/js/2.b570246b.chunk.js",
     "static/js/2.b570246b.chunk.js.map": "/semantic-release-example/static/js/2.b570246b.chunk.js.map",
     "index.html": "/semantic-release-example/index.html",
-    "precache-manifest.ce71ea91c018553d10a283ba087cf797.js": "/semantic-release-example/precache-manifest.ce71ea91c018553d10a283ba087cf797.js",
+    "precache-manifest.0c3122d2033b5d653b89ebcb132ad88c.js": "/semantic-release-example/precache-manifest.0c3122d2033b5d653b89ebcb132ad88c.js",
     "service-worker.js": "/semantic-release-example/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/semantic-release-example/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.b570246b.chunk.js.LICENSE.txt": "/semantic-release-example/static/js/2.b570246b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1e57fad5.js",
     "static/js/2.b570246b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.73b01540.chunk.js"
+    "static/js/main.dea40939.chunk.js"
   ]
 }
