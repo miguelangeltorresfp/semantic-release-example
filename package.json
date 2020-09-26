@@ -2,7 +2,6 @@
   "name": "semantic-release-example",
   "author": "miguelangeltorresfp",
   "version": "1.0.0",
-  "private": true,
   "homepage": "https://miguelangeltorresfp.github.io/semantic-release-example",
   "repository": {
     "type": "git",
