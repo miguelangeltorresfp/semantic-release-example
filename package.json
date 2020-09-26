@@ -3,6 +3,7 @@
   "author": "miguelangeltorresfp",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://miguelangeltorresfp.github.io/semantic-release-example",
   "repository": {
     "type": "git",
     "url": "https://github.com/miguelangeltorresfp/semantic-release-example.git"
