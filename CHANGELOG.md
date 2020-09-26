@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/miguelangeltorresfp/semantic-release-example/compare/v1.2.0...v1.3.0) (2020-09-26)
+
+
+### Features
+
+* add new fake feature ([e0519b3](https://github.com/miguelangeltorresfp/semantic-release-example/commit/e0519b32c39bf96bf6f5fd1bbda7f857fe5c5871))
+
 # [1.2.0](https://github.com/miguelangeltorresfp/semantic-release-example/compare/v1.1.0...v1.2.0) (2020-09-26)
 
 
